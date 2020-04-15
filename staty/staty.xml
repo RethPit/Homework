@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<states>
+    <state>
+        <name>Česká Republika</name>
+        <capital>Praha</capital>
+        <population>10 649 800</population>
+    </state>
+    <state>
+        <name1>Slovensko</name1>
+        <capital1>Bratislava</capital1>
+        <population1>5 450 421</population1>
+    </state>
+    <state>
+        <name>Japonsko</name>
+        <capital>Tokio</capital>
+        <population>126 617 563</population>
+    </state>
+    <state>
+        <name>Nizozemsko</name>
+        <capital>Amsterdam</capital>
+        <population>17 424 978</population>
+    </state>
+    <state>
+        <name>Finkso</name>
+        <capital>Helsinky</capital>
+        <population>5 526 774</population>
+    </state>
+    <state>
+        <name>Spojené státy americké</name>
+        <capital>Washington, D.C.</capital>
+        <population>328 239 523</population>
+    </state>
+    <state>
+        <name>Kanada</name>
+        <capital>Ottawa</capital>
+        <population>37 894 799</population>
+    </state>
+    <state>
+        <name>Rusko</name>
+        <capital>Moskva</capital>
+        <population>146 745 098</population>
+    </state>
+    <state>
+        <name>Kazakhstán</name>
+        <capital>Nur-Sultan</capital>
+        <population>18 448 600</population>
+    </state>
+    <state>
+        <name>Lichtenštejnsko</name>
+        <capital>Vaduz</capital>
+        <population>38 557</population>
+    </state>
+</states>
